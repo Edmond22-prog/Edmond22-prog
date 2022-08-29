@@ -40,33 +40,22 @@
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&count_private=true&langs_count=10&theme=github_dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
 <img height="150px" />
 <br>
-<br>
-<br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="50"></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="50"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="50"></td>
-    <td><img src="https://daniel.feldroy.com/images/drf.png" width="100"></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.svg" width="50"></td>
-    
-  </tr>
-
-</table>
-
-### When I work
-   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Edghi"/>
-
 
 <a href="https://github.com/Edmond22-prog/Edmond22-prog"><img alt="edghi's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Edmond22-prog&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### I am a Python developer who likes to work with a team to learn more and show what I know.
+
+<h2 font-weight="bold">Skills</h2>
+<p align='left'>
+  <img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="50">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="50">
+  <img src="https://daniel.feldroy.com/images/drf.png" width="100">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.svg" width="50">
+</p>
 
