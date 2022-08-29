@@ -40,6 +40,7 @@
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&count_private=true&langs_count=10&theme=github_dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
 <img height="150px" />
 <br>
+<br>
 
 <a href="https://github.com/Edmond22-prog/Edmond22-prog"><img alt="edghi's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Edmond22-prog&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
