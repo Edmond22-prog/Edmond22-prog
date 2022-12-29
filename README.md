@@ -42,8 +42,6 @@
 <br>
 <br>
 
-<a href="https://github.com/Edmond22-prog/Edmond22-prog"><img alt="edghi's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Edmond22-prog&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
 [![@edghi's Holopin board](https://holopin.me/edghi)](https://holopin.io/@edghi)
 
 <h2 font-weight="bold">Skills</h2>
