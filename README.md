@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Flutter%20Developer;Freelancer%20;GDSC%20Lead%20Alumni;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Flutter%20Developer;Freelancer%20;GDSC%20Lead%20Alumni;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=092e20&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
@@ -36,8 +36,8 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Edmond22-prog" />
 <img align="right" src="https://img.shields.io/github/followers/Edmond22-prog?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Edmond22-prog&show_icons=true&theme=github_dark&count_private=true" />
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&count_private=true&langs_count=10&theme=github_dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Edmond22-prog&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&count_private=true&langs_count=10&theme=chartreuse-dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
 <img height="150px" />
 <br>
 <br>
