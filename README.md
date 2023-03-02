@@ -42,8 +42,8 @@
 <br>
 <br>
 
-<h2 font-weight="bold">Skills</h2>
-<p align='left'>
+<!-- <h2 font-weight="bold">Skills</h2> -->
+<!-- <p align='left'>
   <img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="50">
   <img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="50">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="50">
@@ -54,5 +54,5 @@
   <img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="50">
   <img src="https://daniel.feldroy.com/images/drf.png" width="100">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.svg" width="50">
-</p>
+</p> -->
 
