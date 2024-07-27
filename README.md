@@ -1,23 +1,20 @@
 <p align="center">
-  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Flutter%20Developer;Freelancer%20;GDSC%20Lead%20Alumni;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Django,%20DRF,%20FastAPI;Python%20Instructor;Leader;Freelancer;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
   <h2 align="center">You can reach me on: </h2>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/edmond-ghislain-makolle-99716b1a2/">
+  <a href="https://www.linkedin.com/in/edmond-makolle-99716b1a2/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edmond Ghislain Makolle LinkedIn Profile" height="30" width="30">
   </a>
-  
   <a href="https://twitter.com/MakolleG">
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Edmond Ghislain Makolle Twitter Profile" height="30" width="30">
   </a>
-  
-  <a href="https://twitter.com/MakolleG">
+  <!-- <a href="https://twitter.com/MakolleG">
     <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="Edmond Ghislain Makolle Website" height="30" width="30">
-  </a>
+  </a> -->
 </p>
 </h1>
 
@@ -25,7 +22,6 @@
   <a href="https://t.me/Edghi_Makol">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-
   <a href="mailto:edghimakoll@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -41,18 +37,3 @@
 <img height="150px" />
 <br>
 <br>
-
-<!-- <h2 font-weight="bold">Skills</h2> -->
-<!-- <p align='left'>
-  <img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="50">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="50">
-  <img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="50">
-  <img src="https://daniel.feldroy.com/images/drf.png" width="100">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.svg" width="50">
-</p> -->
-
