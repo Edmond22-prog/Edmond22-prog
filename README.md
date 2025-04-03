@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Django,%20DRF,%20FastAPI;Python%20Instructor;Leader;Freelancer;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=4898ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer;Django,%20DRF,%20FastAPI;Python%20Instructor;Leader;Freelancer;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=ff9933&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
   <h2 align="center">You can reach me on: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edmond-makolle-99716b1a2/">
+  <a href="https://www.linkedin.com/in/edmondmakolle/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edmond Ghislain Makolle LinkedIn Profile" height="30" width="30">
   </a>
-  <a href="https://twitter.com/MakolleG">
+  <a href="https://twitter.com/EdmondMakolle">
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Edmond Ghislain Makolle Twitter Profile" height="30" width="30">
   </a>
   <!-- <a href="https://twitter.com/MakolleG">
@@ -19,7 +19,7 @@
 </h1>
 
 <p align='center'>
-  <a href="https://t.me/Edghi_Makol">
+  <a href="https://t.me/EdmondMakolle">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:edghimakoll@gmail.com">
