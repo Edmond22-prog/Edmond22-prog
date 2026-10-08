@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer;Django,%20DRF,%20FastAPI;Python%20Instructor;Leader;Freelancer;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=3366ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Edmond22-prog"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Backend%20Engineer;Django,%20DRF,%20FastAPI;Python%20Instructor;Leader;Freelancer;Otaku%20and%20Gamer;Python%20Lover&font=Pacifico&center=true&width=650&height=120&color=3366ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
@@ -24,10 +24,6 @@
   <a href="mailto:edghimakoll@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
-
-<p>
-    <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Edghi"/>
 </p>
 
 <h3 align="left">Profile Views</h3>
